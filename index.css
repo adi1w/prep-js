@@ -1,0 +1,598 @@
+
+*{
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background-color:lightskyblue;
+   
+   
+}
+
+.heading{
+
+    text-align: center;
+    color:indigo;
+    font-size: 50px;
+    font-family: 'Lucida Sans Unicode',  'Lucida Sans', Arial, ;
+    text-shadow: 5px 2px forestgreen;
+}
+.top{
+     text-align: center;
+     align-items: center;
+     color:black;
+     padding: 20px;
+     border: 2px solid green;
+    padding-left: 13px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+
+}
+.top2{
+    text-align: center;
+     align-items: center;
+     color: black;
+     padding: 20px;
+     border: 2px solid green;
+    padding-left: 13px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+.top3{
+    text-align: center;
+     align-items: center;
+     color: black;
+     padding: 20px;
+     border: 2px solid green;
+    padding-left: 13px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+.top4{
+    text-align: center;
+     align-items: center;
+     color: black;
+     padding: 20px;
+     border: 4px solid green;
+    padding-left: 13px;
+    border-radius: 30px;
+    background-color:antiquewhite;
+}
+
+
+hr{
+    border: 1px solid black;
+}
+
+.out{
+     text-align: center;
+     align-items: center;
+     color:red;
+}
+
+.question1{
+     color:black;
+}
+.question2{
+    color: black;
+}
+.question3{
+    color: black;
+}
+.question4{
+     color: black;
+}
+.question5{
+        color: black;
+}
+.question6{
+            color:black
+}
+.question7{
+           color: black;
+}
+.question8{
+    color: black;
+
+}
+.question9{
+     color: black;
+}
+.question10{
+     color: black;
+}
+.question10{
+     color: black;
+}
+
+.question11{
+       color: black;
+}
+.question12{
+    color: black;
+}
+
+.question13{
+     color: black
+}
+.question14{
+    color: black ;
+}
+.question15{
+    color: black;
+}
+.question16{
+    color: black;
+}
+.question17{
+    color: black;
+}
+.question18{
+    color: black;
+}
+.question19{
+    color:  black;
+}
+.question20{
+    color:  black;
+}
+.question21{
+     color:  black;
+     
+}
+.question22{
+      color:  black;
+}
+
+.question23{
+    color:   black;
+}
+.question24{
+    color: black;
+}
+
+.question25{
+    color: black;
+
+}
+.question26{
+   color: black;
+}
+.question27{
+    color: black;
+}
+.question28{
+    color: black;
+}
+.question29{
+   color: black;
+}
+.question30{
+     color: black;
+}
+.question31{
+    color: black;
+}
+
+.answer3{
+    text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+
+
+ .answer1{
+    text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+} 
+.answer2{
+    text-align: center;
+    color: red;
+    align-items: center; 
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+
+.answer4{
+    text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer5{
+    text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer6{
+    text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer7{
+    text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer8{
+    text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer9{
+    
+       text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer10{
+     
+     text-align: center;
+    color: red;
+    align-items: center;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer11{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+
+.answer13{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+
+
+.answer14{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer15{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 10px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer16{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+
+.answer17{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer18{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer19{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer20{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer21{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer22{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer23{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer24{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer25{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer26{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer27{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer28{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer29{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer30{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+
+}
+.answer31{
+    text-align: center;
+    color: red;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    padding-left: 13px;
+    border-radius: 30px;
+    color:black;
+    font-size: large;
+    margin: auto 20% auto 20
+}
